@@ -1,0 +1,2 @@
+- I can use req.user.id if user is logged in, it will return logged in user id
+- Mongoose methods return promise, so I can use async and await.
